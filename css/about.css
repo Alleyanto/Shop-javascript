@@ -1,0 +1,28 @@
+body{
+	margin:0;
+}
+
+#container{
+	height: 100vh;
+	background-color:#FAFAFA;
+	width: 700px;
+	margin:auto;
+}
+
+#content{
+	height: 100%;
+	background-color:#FAFAFA;
+}
+
+#content-center{
+	width:210px;
+	margin:auto;
+	padding-top:250px;
+}
+
+#center-text{
+	margin:0;
+	font:25px Verdana;
+	color:#3A3A3A;
+	font-weight: bold;
+}

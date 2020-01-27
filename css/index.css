@@ -1,0 +1,92 @@
+body{
+	margin:0;
+}
+
+#container{
+	height: 100%;
+	background-color:#FAFAFA;
+	width: 700px;
+	margin:auto;
+}
+
+#header{
+	height: 20%;
+	background-color:#3A3A3A;
+}
+
+#menu{
+	list-style-type: none;
+	margin:auto;
+	padding:0;
+	color:#000;
+    overflow: hidden;
+	width: 245px;
+	height:20%;
+	background-color:#3A3A3A;
+}
+
+#menu li{
+	float: left;
+	background-color:#3A3A3A;
+	margin:auto;
+}
+
+#menu li a{
+	display: block;
+	text-decoration:none;
+	color:#fff;
+	font: 16px Verdana;
+    text-align: center;
+    padding: 14px 16px;
+}
+
+#menu li a:hover{
+	opacity: 0.4;
+}
+
+#content{
+	height: 60%;
+	background-color:#FAFAFA;
+}
+
+#footer{
+	background-color:#3A3A3A;
+	position: fixed;
+	bottom: 0;
+	width: 700px;
+}
+
+#content-header{
+	font: 20px Verdana;
+	padding: 10px;
+	margin: 15px auto;
+	width: 600px;
+}
+
+#footer-header{
+	font: 15px Verdana;
+	padding: 10px;
+	margin: auto;
+	width: 380px;
+	color: #fff;
+}
+
+#header-text{
+	font-family: Verdana;
+}
+
+#car1-detail-list{
+	font-family: Verdana;
+}
+
+#car2-detail-list{
+	font-family: Verdana;
+}
+
+#car3-detail-list{
+	font-family: Verdana;
+}
+
+.carslides{
+	cursor:pointer;
+}

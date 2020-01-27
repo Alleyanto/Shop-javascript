@@ -1,0 +1,67 @@
+body{
+	margin:0;
+}
+
+#container{
+	height: 100vh;
+	background-color:#FAFAFA;
+	width: 700px;
+	margin:auto;
+}
+
+#header{
+	height: 20%;
+	background-color:#FAFAFA;
+}
+
+#content{
+	height: 60%;
+	background-color:#FAFAFA;
+}
+
+#header-text{
+	font: 20px Verdana;
+	width:700px;
+	margin:auto;
+	text-align:center;
+	background-color:#3A3A3A;
+	color:#fff;
+	padding: 14px 0px;
+}
+
+#car1-detail{
+	width:400px;
+	margin:auto;
+	margin-top:60px;
+}
+
+#car1-detail-list{
+	font-family: Verdana;
+}
+
+#car2-detail{
+	width:400px;
+	margin:auto;
+}
+
+#car2-detail-list{
+	font-family: Verdana;
+}
+
+#car3-detail{
+	width:400px;
+	margin:auto;
+}
+
+#car3-detail-list{
+	font-family: Verdana;
+}
+
+#car4-detail{
+	width:400px;
+	margin:auto;
+}
+
+#car4-detail-list{
+	font-family: Verdana;
+}
