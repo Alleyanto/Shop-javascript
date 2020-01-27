@@ -8,7 +8,7 @@ function load(){
 }
 
 function slide(){
-	if(window.location.href == "file:///C:/Users/LagadeauR/Desktop/html/shop/index.html"){
+	if(window.location.href == "yourpath/index.html"){
 		carousel();
 	}
 }
